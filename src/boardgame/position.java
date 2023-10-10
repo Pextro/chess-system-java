@@ -33,6 +33,7 @@ public class position {
 		this.column = column;
 	}
 
+	
 	public String toString() {
 		return row + ", " + column;
 	}
